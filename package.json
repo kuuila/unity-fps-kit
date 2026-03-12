@@ -1,0 +1,28 @@
+{
+  "name": "com.kuuila.fps-kit",
+  "version": "1.0.0",
+  "displayName": "Kuuila FPS Kit",
+  "description": "FPS游戏开发套件 - 完整的第一人称控制器、武器系统、动画系统和交互系统",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "keywords": [
+    "fps",
+    "first-person",
+    "shooter",
+    "controller",
+    "weapon",
+    "animation"
+  ],
+  "author": {
+    "name": "Kuuila",
+    "email": "dev@kuuila.cn",
+    "url": "https://kuuila.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuuila/unity-fps-kit.git"
+  }
+}
